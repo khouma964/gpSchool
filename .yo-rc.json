@@ -42,7 +42,9 @@
     "jwtSecretKey": "ZjA1ODk3YmQ3NzNiNWM4YzcyYTRhNGUwMGE4NzU3OTU4MTZjMjRiYjQ1NWYwZWI0N2EwZTQwYThjZWNjMDJiYTcxYmY5YWJmMDc5ZTdhOWJiOTBiOWE4Y2YwNDYyNTg4MGRlYmEwMGNmMWYzYjJmYTI1ZmIyYmFlYjdkNTcyYWE=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1623588169000
   },
   "git-provider": "GitHub",
   "git-company": "khouma964",
